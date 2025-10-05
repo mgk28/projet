@@ -1,2 +1,2 @@
-# projet
-Generated automatically by n8n AgentIA pipeline
+# Nouveau contenu du README
+Mise à jour effectuée automatiquement via pipeline n8n.
